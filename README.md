@@ -1,8 +1,10 @@
 
 # Welcome to your CDK Python project!
 
+This project is based on the [cdk workshop](https://cdkworkshop.com/30-python.html) 
 You should explore the contents of this project. It demonstrates a CDK app with an instance of a stack (`cdkworkshop_stack`)
-which contains an Amazon SQS queue that is subscribed to an Amazon SNS topic.
+
+## Developer
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
